@@ -1,7 +1,6 @@
 package com.cath.appium.java.services;
 
 import com.cath.appium.java.pages.OnboardingPage;
-import com.cath.appium.java.units.DriverManager;
 
 public class OnboardingPageService {
 

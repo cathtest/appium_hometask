@@ -5,7 +5,7 @@ import io.appium.java_client.pagefactory.AndroidFindBy;
 
 public class DashboardPage extends DefaultPage{
 
-    @AndroidFindBy(uiAutomator = "new UiSelector().resourceId(\"ch.upc.connect.android.dev:id/messageCount\")")
+    @AndroidFindBy(id = "ch.upc.connect.android.dev:id/messageCount")
     private AndroidElement welcomeText;
 
     @AndroidFindBy(uiAutomator = "new UiSelector().resourceId(\"ch.upc.connect.android.dev:id/settings_image\")")

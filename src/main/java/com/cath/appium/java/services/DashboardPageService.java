@@ -1,7 +1,7 @@
 package com.cath.appium.java.services;
 
 import com.cath.appium.java.pages.DashboardPage;
-import com.sun.org.apache.xpath.internal.operations.Bool;
+
 
 public class DashboardPageService {
 

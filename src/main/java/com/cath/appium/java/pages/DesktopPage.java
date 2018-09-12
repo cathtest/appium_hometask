@@ -2,7 +2,6 @@ package com.cath.appium.java.pages;
 
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
-import org.aspectj.weaver.ast.And;
 
 public class DesktopPage extends DefaultPage{
 
